@@ -7,7 +7,11 @@ export const collections = {
 			description: z.string(),
 			publishDate: z.coerce.date(),
 			tags: z.array(z.string()),
-			img: z.string(),
+						 img: z.string().refine(value => value.startsWith('https://'), {
+        message: 'Debe ser una URL válida que comience con "https://"',
+      }),
+	  	  			// img: z.string(),
+			
 			img_alt: z.string().optional(),
 		}),
 	}),

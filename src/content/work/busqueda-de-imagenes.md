@@ -11,6 +11,5 @@ tags:
   - Branding
 ---
 
-Página: 
-https://manaomimasha.github.io/MasajesTarima/
-
+Web-Page:
+https://busqueda-de-imagenes.vercel.app/

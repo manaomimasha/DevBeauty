@@ -1,7 +1,7 @@
 ---
 title: Tienda de Muebles estilo E-Commerce
 publishDate: 2020-03-02 00:00:00
-img: /assets/stock-1.jpg
+img: https://images.unsplash.com/photo-1554995207-c18c203602cb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80
 img_alt: Iridescent ripples of a bright blue and pink liquid
 description: |
   We designed a whodunnit-style game to introduce Markdown formatting. Suspense — suspicion — syntax!
